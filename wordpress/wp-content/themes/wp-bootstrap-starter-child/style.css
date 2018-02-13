@@ -1,0 +1,72 @@
+/*
+ Theme Name:   wp bootstrap starter Child
+ Theme URI:    
+ Description:  wp bootstrap starter Child
+ Author:       Boukhemis dib
+ Author URI:   
+ Template:     wp-bootstrap-starter
+ Version:      1.0.0
+ License:      
+ License URI:  
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  wp-bootstrap-starter-child
+*/
+header#masthead {
+    background-color: #e6e9ec;
+    margin-bottom: 0;
+    padding: .74rem 1rem;
+}
+body:not(.theme-preset-active) #page-sub-header h1 {
+  line-height: 1.6;
+  font-size: 4rem;
+  color: #FFF;
+  margin: 0 0 1rem;
+  border: 0;
+  padding: 0;
+}
+body:not(.theme-preset-active) #page-sub-header p {
+  font-size: 30px;
+  color: #212529;
+}
+#masthead .navbar-nav > li > a {
+    color: #FFF;
+    padding: 0.5rem;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  #page-sub-header h1 {
+    line-height: 1;
+    font-size: 4rem;
+    color: #FFF;
+    margin: 0 0 1rem;
+    border: 0;
+    padding: 0;
+  }
+  /*--- 2 Column Form Styles Start ---*/
+
+#left {
+  width: 47%;
+  float: left;
+  margin-right:6%;
+}
+
+#right {
+  width: 47%;
+  float: left;
+}
+
+.clearfix:after {
+  content:"\0020";
+  display:block;
+  height:0;
+  clear:both;
+  visibility:hidden;
+  overflow:hidden;
+  margin-bottom:10px;
+}
+
+.clearfix {
+  display:block;
+}
+
+/*--- 2 Column Form Styles End ---*/

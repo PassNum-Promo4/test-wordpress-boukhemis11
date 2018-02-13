@@ -1,0 +1,580 @@
+0000.001 (0) Opened log file at time: Sat, 10 Feb 2018 10:39:46 +0000 on http://localhost/wordpress
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 54.4M | 54.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 434314.1 MB
+0000.019 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.021 (0) Semaphore (fd, wp_options) being initialised
+0000.028 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.030 (0) Set semaphore last lock (fd) time to 2018-02-10 10:39:46
+0000.032 (0) Semaphore lock (fd) complete
+0000.038 (0) Backup run: resumption=0, nonce=9a86057be92e, begun at=1518259186 (0s ago), job type=backup
+0000.041 (0) Scheduling a resumption (1) after 300 seconds (1518259486) in case this run gets aborted
+0000.050 (0) Checking if we have a zip executable available
+0000.054 (0) Creation of backups of directories: beginning
+0000.060 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.165 (0) Total entities for the zip file: 568 directories, 3521 files (0 skipped as non-modified), 49.1 MB
+0005.178 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.284 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 100 files added (on-disk size: 107.8 KB)
+0005.384 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 200 files added (on-disk size: 107.8 KB)
+0005.487 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 300 files added (on-disk size: 107.8 KB)
+0005.615 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 400 files added (on-disk size: 107.8 KB)
+0005.754 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 500 files added (on-disk size: 107.8 KB)
+0005.759 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 MB, 3521 files batched, 501 (502) added so far); re-opening (prior size: 107.8 KB)
+0006.298 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 600 files added (on-disk size: 1971.4 KB)
+0006.430 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 700 files added (on-disk size: 1971.4 KB)
+0006.539 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 800 files added (on-disk size: 1971.4 KB)
+0006.638 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 900 files added (on-disk size: 1971.4 KB)
+0006.777 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1000 files added (on-disk size: 1971.4 KB)
+0006.782 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.7 MB, 3521 files batched, 501 (1003) added so far); re-opening (prior size: 1971.4 KB)
+0007.242 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1100 files added (on-disk size: 3333.1 KB)
+0007.382 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1200 files added (on-disk size: 3333.1 KB)
+0007.510 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1300 files added (on-disk size: 3333.1 KB)
+0007.655 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1400 files added (on-disk size: 3333.1 KB)
+0007.786 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1500 files added (on-disk size: 3333.1 KB)
+0007.793 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.9 MB, 3521 files batched, 501 (1504) added so far); re-opening (prior size: 3333.1 KB)
+0008.610 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1600 files added (on-disk size: 6185.1 KB)
+0008.762 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1700 files added (on-disk size: 6185.1 KB)
+0008.921 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1800 files added (on-disk size: 6185.1 KB)
+0009.088 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 1900 files added (on-disk size: 6185.1 KB)
+0009.268 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2000 files added (on-disk size: 6185.1 KB)
+0009.276 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 3521 files batched, 501 (2005) added so far); re-opening (prior size: 6185.1 KB)
+0009.925 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2100 files added (on-disk size: 7598.5 KB)
+0010.102 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2200 files added (on-disk size: 7598.5 KB)
+0010.221 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2300 files added (on-disk size: 7598.5 KB)
+0010.334 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2400 files added (on-disk size: 7598.5 KB)
+0010.450 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2500 files added (on-disk size: 7598.5 KB)
+0010.458 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.6 MB, 3521 files batched, 501 (2506) added so far); re-opening (prior size: 7598.5 KB)
+0011.428 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2600 files added (on-disk size: 10813.7 KB)
+0011.663 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2700 files added (on-disk size: 10813.7 KB)
+0011.877 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2800 files added (on-disk size: 10813.7 KB)
+0012.044 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 2900 files added (on-disk size: 10813.7 KB)
+0012.218 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 3000 files added (on-disk size: 10813.7 KB)
+0012.232 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.7 MB, 3521 files batched, 501 (3007) added so far); re-opening (prior size: 10813.7 KB)
+0013.141 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 3100 files added (on-disk size: 13389.4 KB)
+0013.307 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 3200 files added (on-disk size: 13389.4 KB)
+0013.467 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 3300 files added (on-disk size: 13389.4 KB)
+0013.656 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 3400 files added (on-disk size: 13389.4 KB)
+0013.824 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip.tmp: 3500 files added (on-disk size: 13389.4 KB)
+0013.837 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 3521 files batched, 501 (3508) added so far); re-opening (prior size: 13389.4 KB)
+0014.393 (0) Created plugins zip (0) - 14189.3 KB in 14.3 s (990.6 KB/s) (sha1: d23dfe8780b17068967c8a79aacfb72c226260cc, sha256: d47b7ff968830a094a14da09f82a400583b352485440d6ef295819795e63ce77)
+0014.400 (0) Beginning creation of dump of themes (split every: 400 MB)
+0014.480 (0) Total entities for the zip file: 21 directories, 133 files (0 skipped as non-modified), 11.3 MB
+0014.544 (0) Zip: backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.536 (0) Created themes zip (0) - 3084.4 KB in 1.1 s (2734.4 KB/s) (sha1: 1531fdbd480b1f22c447c80697218ea6dacb2ce0, sha256: fbe46bdbfc00cc70bd7b70a3fec69f1634d79b009d3eaf184a29a516bf6a4f79)
+0015.542 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0015.544 (0) Looking for candidates to back up in: C:\wamp64\www\wordpress/wp-content/uploads
+0015.546 (0) finding files: 2018: adding to list (1)
+0015.548 (0) finding files: elementor: adding to list (2)
+0015.550 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0015.585 (0) Total entities for the zip file: 5 directories, 60 files (0 skipped as non-modified), 2.7 MB
+0015.763 (0) Created uploads zip (0) - 2755.4 KB in 0.2 s (13442.5 KB/s) (sha1: 2adba7d36afb473a86890f263fe3356248a10686, sha256: 668386f94513227a024218b37715ce50f56f4cc738ee0a8d9f388ea4e8ec3ea9)
+0015.769 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.771 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0015.772 (0) Looking for candidates to back up in: C:\wamp64\www\wordpress/wp-content
+0015.774 (0) finding files: index.php: adding to list (1)
+0015.775 (0) finding files: languages: adding to list (2)
+0015.778 (0) finding files: plugins: skipping: this is the plugins directory
+0015.779 (0) finding files: themes: skipping: this is the themes directory
+0015.780 (0) finding files: updraft: skipping: this is the updraft directory
+0015.781 (0) finding files: upgrade: skipping: excluded by options
+0015.782 (0) finding files: uploads: skipping: this is the uploads directory
+0015.814 (0) Total entities for the zip file: 3 directories, 27 files (0 skipped as non-modified), 3 MB
+0016.110 (0) Created others zip (0) - 857.7 KB in 0.3 s (2681.6 KB/s) (sha1: 14e089d45461727b958bc6a100c44a30d35dbe72, sha256: 217177c06cfe3632c1dba9f67f65f2309698d3c7bf71ed9018737ee8927739e6)
+0016.119 (0) Saving backup status to database (elements: 8)
+0016.122 (0) Beginning creation of database dump (WordPress DB)
+0016.176 (0) Table wp_options: Total expected rows (approximate): 215
+0016.194 (0) Table wp_options: Total rows added: 209 in 0.02 seconds
+0016.200 (0) Table wp_options: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_options.table.gz - 30.2 KB)
+0016.208 (0) Table wp_users: Total expected rows (approximate): 1
+0016.211 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0016.216 (0) Table wp_users: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_users.table.gz - 0.5 KB)
+0016.223 (0) Table wp_usermeta: Total expected rows (approximate): 25
+0016.226 (0) Table wp_usermeta: Total rows added: 25 in 0.00 seconds
+0016.231 (0) Table wp_usermeta: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_usermeta.table.gz - 1.2 KB)
+0016.238 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0016.241 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0016.246 (0) Table wp_commentmeta: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0016.257 (0) Table wp_comments: Total expected rows (approximate): 1
+0016.260 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0016.265 (0) Table wp_comments: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_comments.table.gz - 0.8 KB)
+0016.272 (0) Table wp_links: Total expected rows (approximate): 0
+0016.275 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0016.279 (0) Table wp_links: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_links.table.gz - 0.4 KB)
+0016.286 (0) Table wp_postmeta: Total expected rows (approximate): 160
+0016.295 (0) Table wp_postmeta: Total rows added: 160 in 0.01 seconds
+0016.300 (0) Table wp_postmeta: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_postmeta.table.gz - 3.9 KB)
+0016.307 (0) Table wp_posts: Total expected rows (approximate): 63
+0016.323 (0) Table wp_posts: Total rows added: 63 in 0.01 seconds
+0016.330 (0) Table wp_posts: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_posts.table.gz - 7 KB)
+0016.337 (0) Table wp_term_relationships: Total expected rows (approximate): 5
+0016.341 (0) Table wp_term_relationships: Total rows added: 5 in 0.00 seconds
+0016.348 (0) Table wp_term_relationships: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0016.357 (0) Table wp_term_taxonomy: Total expected rows (approximate): 5
+0016.361 (0) Table wp_term_taxonomy: Total rows added: 5 in 0.00 seconds
+0016.365 (0) Table wp_term_taxonomy: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0016.373 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0016.376 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0016.380 (0) Table wp_termmeta: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_termmeta.table.gz - 0.4 KB)
+0016.387 (0) Table wp_terms: Total expected rows (approximate): 5
+0016.391 (0) Table wp_terms: Total rows added: 5 in 0.00 seconds
+0016.396 (0) Table wp_terms: finishing file (backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_terms.table.gz - 0.5 KB)
+0016.407 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_options.table.gz (1/12): adding to final database dump
+0016.416 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_users.table.gz (2/12): adding to final database dump
+0016.418 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0016.420 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0016.422 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0016.424 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_links.table.gz (6/12): adding to final database dump
+0016.426 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0016.429 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0016.433 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0016.435 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0016.439 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0016.441 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0016.447 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: finished writing out complete database file (24 KB)
+0016.461 (0) Total database tables backed up: 12 (backup_2018-02-10-1139_passnum_9a86057be92e-db.gz, size: 44349, sha256)
+0016.470 (0) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0016.472 (0) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0016.473 (0) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0016.475 (0) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0016.476 (0) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0016.477 (0) Saving backup history. Total backup size: 20.4 MB
+0016.481 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0016.486 (0) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+0016.488 (0) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+0016.490 (0) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+0016.491 (0) An error condition has occurred for the first time during this job
+0016.495 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.497 (0) Number of backup sets in history: 3; groups (db): 1
+0016.498 (0) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+0016.500 (0) This backup set is the backup set just made, so will not be deleted.
+0016.500 (0) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+0016.500 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0016.501 (0) Examining (for databases) backup set with group_id=0, nonce=a4f8a2b4c572, datestamp=1518246984 (Feb 10 2018 07:16:24)
+0016.501 (0) 1518246984: db: this set includes a database (backup_2018-02-10-0816_passnum_a4f8a2b4c572-db.gz); db count is now 2
+0016.501 (0) 1518246984: db: over retain limit (2); will delete this database
+0016.501 (0) Delete file: backup_2018-02-10-0816_passnum_a4f8a2b4c572-db.gz, service=onedrive
+0016.503 (0) Deleting local copy (backup_2018-02-10-0816_passnum_a4f8a2b4c572-db.gz)
+0016.505 (0) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+0016.508 (0) This backup set is now empty; will remove from history
+0016.510 (0) Deleting log file (log.a4f8a2b4c572.txt)
+0016.512 (0) Number of backup sets in history: 2; groups (files): 1
+0016.513 (0) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+0016.513 (0) This backup set is the backup set just made, so will not be deleted.
+0016.515 (0) This backup set is the backup set just made, so will not be deleted.
+0016.515 (0) This backup set is the backup set just made, so will not be deleted.
+0016.515 (0) This backup set is the backup set just made, so will not be deleted.
+0016.516 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0016.517 (0) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+0016.517 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0016.518 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0016.523 (0) Resume backup (9a86057be92e, 0): finish run
+0016.526 (0) Decremented the semaphore (fd) by 1
+0016.528 (0) Semaphore (fd) unlocked
+0016.529 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0016.533 (0) Rescheduling resumption 1: moving to 120 seconds from now (1518259322)
+0016.537 (0) No email will/can be sent - the user has not configured an email address.
+0016.538 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+12566.484 (1) Opened log file at time: Sat, 10 Feb 2018 14:09:12 +0000 on http://localhost/wordpress
+12566.487 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 41.9M | 42.5M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+12566.488 (1) Free space on disk containing Updraft's temporary directory: 434282.6 MB
+12566.493 (1) Backup run: resumption=1, nonce=9a86057be92e, begun at=1518259186 (12566s ago), job type=backup, previous check-in=16.5s
+12566.495 (1) Long time past since expected resumption time: approx expected=1518259502.6, now=1518271752.5, diff=12249.9
+12566.498 (1) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+12566.501 (1) Scheduling a resumption (2) after 300 seconds (1518272052) in case this run gets aborted
+12566.534 (1) Checking if we have a zip executable available
+12566.535 (1) Creation of backups of directories: already finished
+12566.538 (1) Saving backup status to database (elements: 8)
+12566.612 (1) Database dump (WordPress DB): Creation was completed already
+12566.620 (1) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+12566.622 (1) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+12566.623 (1) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+12566.625 (1) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+12566.626 (1) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+12566.628 (1) Saving backup history. Total backup size: 20.4 MB
+12566.632 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+12566.635 (1) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+12566.637 (1) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+12566.638 (1) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+12566.640 (1) An error condition has occurred for the first time during this job
+12566.643 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+12566.645 (1) Number of backup sets in history: 2; groups (db): 1
+12566.647 (1) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+12566.648 (1) This backup set is the backup set just made, so will not be deleted.
+12566.648 (1) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+12566.648 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+12566.650 (1) Number of backup sets in history: 2; groups (files): 1
+12566.651 (1) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+12566.651 (1) This backup set is the backup set just made, so will not be deleted.
+12566.652 (1) This backup set is the backup set just made, so will not be deleted.
+12566.653 (1) This backup set is the backup set just made, so will not be deleted.
+12566.653 (1) This backup set is the backup set just made, so will not be deleted.
+12566.654 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+12566.655 (1) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+12566.655 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+12566.657 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+12566.661 (1) Resume backup (9a86057be92e, 1): finish run
+12566.663 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+12566.666 (1) No email will/can be sent - the user has not configured an email address.
+12566.667 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+12569.559 (1) Opened log file at time: Sat, 10 Feb 2018 14:09:15 +0000 on http://localhost/wordpress
+12569.562 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 54.4M | 54.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+12569.564 (1) Free space on disk containing Updraft's temporary directory: 434282.6 MB
+12569.567 (1) Backup run: resumption=1, nonce=9a86057be92e, begun at=1518259186 (12569s ago), job type=backup, previous check-in=16.5s
+12569.569 (1) Long time past since expected resumption time: approx expected=1518259502.6, now=1518271755.6, diff=12253
+12569.570 (1) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+12569.571 (1) Scheduling a resumption (2) after 300 seconds (1518272055) in case this run gets aborted
+12569.580 (1) Checking if we have a zip executable available
+12569.582 (1) Creation of backups of directories: already finished
+12569.585 (1) Saving backup status to database (elements: 8)
+12569.591 (1) Database dump (WordPress DB): Creation was completed already
+12569.599 (1) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+12569.601 (1) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+12569.603 (1) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+12569.604 (1) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+12569.607 (1) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+12569.608 (1) Saving backup history. Total backup size: 20.4 MB
+12569.613 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+12569.617 (1) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+12569.618 (1) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+12569.620 (1) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+12569.622 (1) An error condition has occurred for the first time during this job
+12569.629 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+12569.632 (1) Number of backup sets in history: 2; groups (db): 1
+12569.634 (1) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+12569.636 (1) This backup set is the backup set just made, so will not be deleted.
+12569.636 (1) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+12569.636 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+12569.638 (1) Number of backup sets in history: 2; groups (files): 1
+12569.641 (1) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+12569.641 (1) This backup set is the backup set just made, so will not be deleted.
+12569.642 (1) This backup set is the backup set just made, so will not be deleted.
+12569.642 (1) This backup set is the backup set just made, so will not be deleted.
+12569.643 (1) This backup set is the backup set just made, so will not be deleted.
+12569.644 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+12569.645 (1) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+12569.645 (1) This backup set remains non-empty (f=0/d=1); will retain in history
+12569.646 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+12569.649 (1) Resume backup (9a86057be92e, 1): finish run
+12569.652 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+12569.655 (1) No email will/can be sent - the user has not configured an email address.
+12569.656 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+29067.298 (2) Opened log file at time: Sat, 10 Feb 2018 18:44:13 +0000 on http://localhost/wordpress
+29067.302 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 41.9M | 42.5M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+29067.304 (2) Free space on disk containing Updraft's temporary directory: 434189 MB
+29067.307 (2) Backup run: resumption=2, nonce=9a86057be92e, begun at=1518259186 (29067s ago), job type=backup
+29067.308 (2) Long time past since expected resumption time: approx expected=1518272055.6, now=1518288253.3, diff=16197.7
+29067.310 (2) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+29067.313 (2) Scheduling a resumption (3) after 300 seconds (1518288553) in case this run gets aborted
+29067.348 (2) Checking if we have a zip executable available
+29067.350 (2) Creation of backups of directories: already finished
+29067.352 (2) Saving backup status to database (elements: 8)
+29067.408 (2) Database dump (WordPress DB): Creation was completed already
+29067.417 (2) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+29067.418 (2) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+29067.420 (2) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+29067.421 (2) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+29067.423 (2) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+29067.424 (2) Saving backup history. Total backup size: 20.4 MB
+29067.429 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+29067.432 (2) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+29067.434 (2) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+29067.436 (2) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+29067.437 (2) An error condition has occurred for the first time during this job
+29067.440 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+29067.443 (2) Number of backup sets in history: 2; groups (db): 1
+29067.444 (2) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+29067.446 (2) This backup set is the backup set just made, so will not be deleted.
+29067.446 (2) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+29067.446 (2) This backup set remains non-empty (f=0/d=1); will retain in history
+29067.447 (2) Number of backup sets in history: 2; groups (files): 1
+29067.448 (2) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+29067.448 (2) This backup set is the backup set just made, so will not be deleted.
+29067.450 (2) This backup set is the backup set just made, so will not be deleted.
+29067.450 (2) This backup set is the backup set just made, so will not be deleted.
+29067.451 (2) This backup set is the backup set just made, so will not be deleted.
+29067.451 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+29067.452 (2) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+29067.452 (2) This backup set remains non-empty (f=0/d=1); will retain in history
+29067.454 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+29067.458 (2) Resume backup (9a86057be92e, 2): finish run
+29067.461 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+29067.464 (2) No email will/can be sent - the user has not configured an email address.
+29067.465 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+29414.199 (3) Opened log file at time: Sat, 10 Feb 2018 18:50:00 +0000 on http://localhost/wordpress
+29414.201 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 42.2M | 42.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+29414.203 (3) Free space on disk containing Updraft's temporary directory: 434188.4 MB
+29414.206 (3) Backup run: resumption=3, nonce=9a86057be92e, begun at=1518259186 (29414s ago), job type=backup
+29414.209 (3) Scheduling a resumption (4) after 300 seconds (1518288900) in case this run gets aborted
+29414.217 (3) Checking if we have a zip executable available
+29414.219 (3) Creation of backups of directories: already finished
+29414.222 (3) Saving backup status to database (elements: 8)
+29414.228 (3) Database dump (WordPress DB): Creation was completed already
+29414.235 (3) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+29414.236 (3) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+29414.238 (3) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+29414.239 (3) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+29414.241 (3) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+29414.243 (3) Saving backup history. Total backup size: 20.4 MB
+29414.246 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+29414.249 (3) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+29414.251 (3) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+29414.252 (3) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+29414.253 (3) An error condition has occurred for the first time during this job
+29414.257 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+29414.260 (3) Number of backup sets in history: 2; groups (db): 1
+29414.261 (3) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+29414.262 (3) This backup set is the backup set just made, so will not be deleted.
+29414.262 (3) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+29414.262 (3) This backup set remains non-empty (f=0/d=1); will retain in history
+29414.264 (3) Number of backup sets in history: 2; groups (files): 1
+29414.265 (3) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+29414.265 (3) This backup set is the backup set just made, so will not be deleted.
+29414.266 (3) This backup set is the backup set just made, so will not be deleted.
+29414.267 (3) This backup set is the backup set just made, so will not be deleted.
+29414.267 (3) This backup set is the backup set just made, so will not be deleted.
+29414.267 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+29414.269 (3) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+29414.269 (3) This backup set remains non-empty (f=0/d=1); will retain in history
+29414.270 (3) Retain: saving new backup history (sets now: 2) and finishing retain operation
+29414.275 (3) Resume backup (9a86057be92e, 3): finish run
+29414.277 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+29414.280 (3) No email will/can be sent - the user has not configured an email address.
+29414.282 (3) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+30139.697 (4) Opened log file at time: Sat, 10 Feb 2018 19:02:05 +0000 on http://localhost/wordpress
+30139.698 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 42.2M | 42.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+30139.700 (4) Free space on disk containing Updraft's temporary directory: 434190.3 MB
+30139.703 (4) Backup run: resumption=4, nonce=9a86057be92e, begun at=1518259186 (30139s ago), job type=backup
+30139.706 (4) Scheduling a resumption (5) after 300 seconds (1518289625) in case this run gets aborted
+30139.714 (4) Checking if we have a zip executable available
+30139.716 (4) Creation of backups of directories: already finished
+30139.718 (4) Saving backup status to database (elements: 8)
+30139.724 (4) Database dump (WordPress DB): Creation was completed already
+30139.731 (4) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+30139.733 (4) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+30139.735 (4) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+30139.736 (4) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+30139.738 (4) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+30139.739 (4) Saving backup history. Total backup size: 20.4 MB
+30139.743 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+30139.746 (4) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+30139.748 (4) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+30139.749 (4) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+30139.750 (4) An error condition has occurred for the first time during this job
+30139.753 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+30139.755 (4) Number of backup sets in history: 2; groups (db): 1
+30139.756 (4) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+30139.758 (4) This backup set is the backup set just made, so will not be deleted.
+30139.758 (4) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+30139.758 (4) This backup set remains non-empty (f=0/d=1); will retain in history
+30139.759 (4) Number of backup sets in history: 2; groups (files): 1
+30139.760 (4) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+30139.760 (4) This backup set is the backup set just made, so will not be deleted.
+30139.761 (4) This backup set is the backup set just made, so will not be deleted.
+30139.762 (4) This backup set is the backup set just made, so will not be deleted.
+30139.762 (4) This backup set is the backup set just made, so will not be deleted.
+30139.763 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+30139.764 (4) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+30139.764 (4) This backup set remains non-empty (f=0/d=1); will retain in history
+30139.765 (4) Retain: saving new backup history (sets now: 2) and finishing retain operation
+30139.768 (4) Resume backup (9a86057be92e, 4): finish run
+30139.770 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+30139.773 (4) No email will/can be sent - the user has not configured an email address.
+30139.774 (4) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+31151.934 (5) Opened log file at time: Sat, 10 Feb 2018 19:18:57 +0000 on http://localhost/wordpress
+31151.937 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 45M | 45.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+31151.939 (5) Free space on disk containing Updraft's temporary directory: 433979.8 MB
+31151.942 (5) Backup run: resumption=5, nonce=9a86057be92e, begun at=1518259186 (31151s ago), job type=backup
+31151.946 (5) Scheduling a resumption (6) after 300 seconds (1518290637) in case this run gets aborted
+31151.957 (5) Checking if we have a zip executable available
+31151.958 (5) Creation of backups of directories: already finished
+31151.961 (5) Saving backup status to database (elements: 8)
+31151.967 (5) Database dump (WordPress DB): Creation was completed already
+31151.977 (5) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+31151.979 (5) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+31151.980 (5) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+31151.982 (5) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+31151.983 (5) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+31151.986 (5) Saving backup history. Total backup size: 20.4 MB
+31151.992 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+31151.995 (5) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+31151.996 (5) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+31151.998 (5) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+31151.999 (5) An error condition has occurred for the first time during this job
+31152.008 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+31152.011 (5) Number of backup sets in history: 2; groups (db): 1
+31152.014 (5) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+31152.016 (5) This backup set is the backup set just made, so will not be deleted.
+31152.016 (5) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+31152.016 (5) This backup set remains non-empty (f=0/d=1); will retain in history
+31152.019 (5) Number of backup sets in history: 2; groups (files): 1
+31152.020 (5) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+31152.020 (5) This backup set is the backup set just made, so will not be deleted.
+31152.022 (5) This backup set is the backup set just made, so will not be deleted.
+31152.022 (5) This backup set is the backup set just made, so will not be deleted.
+31152.023 (5) This backup set is the backup set just made, so will not be deleted.
+31152.023 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+31152.024 (5) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+31152.025 (5) This backup set remains non-empty (f=0/d=1); will retain in history
+31152.026 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+31152.030 (5) Resume backup (9a86057be92e, 5): finish run
+31152.031 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+31152.035 (5) No email will/can be sent - the user has not configured an email address.
+31152.037 (5) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+31461.190 (6) Opened log file at time: Sat, 10 Feb 2018 19:24:07 +0000 on http://localhost/wordpress
+31461.192 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 45M | 45.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+31461.193 (6) Free space on disk containing Updraft's temporary directory: 433978.3 MB
+31461.196 (6) Backup run: resumption=6, nonce=9a86057be92e, begun at=1518259186 (31461s ago), job type=backup
+31461.199 (6) Scheduling a resumption (7) after 300 seconds (1518290947) in case this run gets aborted
+31461.208 (6) Checking if we have a zip executable available
+31461.209 (6) Creation of backups of directories: already finished
+31461.211 (6) Saving backup status to database (elements: 8)
+31461.217 (6) Database dump (WordPress DB): Creation was completed already
+31461.224 (6) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+31461.226 (6) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+31461.227 (6) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+31461.229 (6) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+31461.230 (6) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+31461.231 (6) Saving backup history. Total backup size: 20.4 MB
+31461.235 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+31461.238 (6) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+31461.240 (6) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+31461.242 (6) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+31461.243 (6) An error condition has occurred for the first time during this job
+31461.246 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+31461.248 (6) Number of backup sets in history: 2; groups (db): 1
+31461.249 (6) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+31461.251 (6) This backup set is the backup set just made, so will not be deleted.
+31461.251 (6) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+31461.251 (6) This backup set remains non-empty (f=0/d=1); will retain in history
+31461.252 (6) Number of backup sets in history: 2; groups (files): 1
+31461.253 (6) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+31461.253 (6) This backup set is the backup set just made, so will not be deleted.
+31461.255 (6) This backup set is the backup set just made, so will not be deleted.
+31461.255 (6) This backup set is the backup set just made, so will not be deleted.
+31461.255 (6) This backup set is the backup set just made, so will not be deleted.
+31461.256 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+31461.257 (6) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+31461.257 (6) This backup set remains non-empty (f=0/d=1); will retain in history
+31461.259 (6) Retain: saving new backup history (sets now: 2) and finishing retain operation
+31461.262 (6) Resume backup (9a86057be92e, 6): finish run
+31461.264 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+31461.266 (6) No email will/can be sent - the user has not configured an email address.
+31461.268 (6) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+31766.232 (7) Opened log file at time: Sat, 10 Feb 2018 19:29:12 +0000 on http://localhost/wordpress
+31766.235 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 45M | 45.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+31766.238 (7) Free space on disk containing Updraft's temporary directory: 433978 MB
+31766.244 (7) Backup run: resumption=7, nonce=9a86057be92e, begun at=1518259186 (31766s ago), job type=backup
+31766.247 (7) Scheduling a resumption (8) after 300 seconds (1518291252) in case this run gets aborted
+31766.256 (7) Checking if we have a zip executable available
+31766.258 (7) Creation of backups of directories: already finished
+31766.261 (7) Saving backup status to database (elements: 8)
+31766.268 (7) Database dump (WordPress DB): Creation was completed already
+31766.276 (7) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+31766.278 (7) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+31766.279 (7) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+31766.281 (7) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+31766.282 (7) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+31766.283 (7) Saving backup history. Total backup size: 20.4 MB
+31766.287 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+31766.290 (7) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+31766.292 (7) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+31766.293 (7) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+31766.295 (7) An error condition has occurred for the first time during this job
+31766.299 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+31766.301 (7) Number of backup sets in history: 2; groups (db): 1
+31766.302 (7) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+31766.303 (7) This backup set is the backup set just made, so will not be deleted.
+31766.303 (7) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+31766.303 (7) This backup set remains non-empty (f=0/d=1); will retain in history
+31766.305 (7) Number of backup sets in history: 2; groups (files): 1
+31766.306 (7) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+31766.306 (7) This backup set is the backup set just made, so will not be deleted.
+31766.307 (7) This backup set is the backup set just made, so will not be deleted.
+31766.308 (7) This backup set is the backup set just made, so will not be deleted.
+31766.308 (7) This backup set is the backup set just made, so will not be deleted.
+31766.309 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+31766.310 (7) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+31766.310 (7) This backup set remains non-empty (f=0/d=1); will retain in history
+31766.312 (7) Retain: saving new backup history (sets now: 2) and finishing retain operation
+31766.315 (7) Resume backup (9a86057be92e, 7): finish run
+31766.316 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+31766.319 (7) No email will/can be sent - the user has not configured an email address.
+31766.321 (7) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+32129.149 (8) Opened log file at time: Sat, 10 Feb 2018 19:35:15 +0000 on http://localhost/wordpress
+32129.151 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 45M | 45.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+32129.152 (8) Free space on disk containing Updraft's temporary directory: 433976.8 MB
+32129.155 (8) Backup run: resumption=8, nonce=9a86057be92e, begun at=1518259186 (32129s ago), job type=backup
+32129.158 (8) Scheduling a resumption (9) after 300 seconds (1518291615) in case this run gets aborted
+32129.167 (8) Checking if we have a zip executable available
+32129.169 (8) Creation of backups of directories: already finished
+32129.171 (8) Saving backup status to database (elements: 8)
+32129.177 (8) Database dump (WordPress DB): Creation was completed already
+32129.184 (8) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+32129.186 (8) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+32129.188 (8) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+32129.190 (8) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+32129.191 (8) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+32129.193 (8) Saving backup history. Total backup size: 20.4 MB
+32129.196 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+32129.201 (8) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+32129.204 (8) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+32129.205 (8) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+32129.207 (8) An error condition has occurred for the first time during this job
+32129.210 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+32129.212 (8) Number of backup sets in history: 2; groups (db): 1
+32129.213 (8) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+32129.214 (8) This backup set is the backup set just made, so will not be deleted.
+32129.214 (8) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+32129.214 (8) This backup set remains non-empty (f=0/d=1); will retain in history
+32129.216 (8) Number of backup sets in history: 2; groups (files): 1
+32129.217 (8) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+32129.217 (8) This backup set is the backup set just made, so will not be deleted.
+32129.218 (8) This backup set is the backup set just made, so will not be deleted.
+32129.218 (8) This backup set is the backup set just made, so will not be deleted.
+32129.219 (8) This backup set is the backup set just made, so will not be deleted.
+32129.219 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+32129.221 (8) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+32129.221 (8) This backup set remains non-empty (f=0/d=1); will retain in history
+32129.222 (8) Retain: saving new backup history (sets now: 2) and finishing retain operation
+32129.226 (8) Resume backup (9a86057be92e, 8): finish run
+32129.227 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+32129.230 (8) No email will/can be sent - the user has not configured an email address.
+32129.231 (8) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+32508.243 (9) Opened log file at time: Sat, 10 Feb 2018 19:41:34 +0000 on http://localhost/wordpress
+32508.245 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31 (apache2handler, Windows NT DESKTOP-KDOHED6 10.0 build 16299 (Windows 10) AMD64) MySQL: 5.7.19 WPLANG: fr_FR Server: Apache/2.4.27 (Win64) PHP/5.6.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 45M | 45.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+32508.246 (9) Free space on disk containing Updraft's temporary directory: 433972.7 MB
+32508.250 (9) Backup run: resumption=9, nonce=9a86057be92e, begun at=1518259186 (32508s ago), job type=backup
+32508.253 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+32508.265 (9) Creation of backups of directories: already finished
+32508.268 (9) Saving backup status to database (elements: 8)
+32508.276 (9) Database dump (WordPress DB): Creation was completed already
+32508.287 (9) backup_2018-02-10-1139_passnum_9a86057be92e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+32508.288 (9) backup_2018-02-10-1139_passnum_9a86057be92e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+32508.290 (9) backup_2018-02-10-1139_passnum_9a86057be92e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+32508.292 (9) backup_2018-02-10-1139_passnum_9a86057be92e-others.zip: others: This file has not yet been successfully uploaded: will queue
+32508.295 (9) backup_2018-02-10-1139_passnum_9a86057be92e-db.gz: db: This file has not yet been successfully uploaded: will queue
+32508.296 (9) Saving backup history. Total backup size: 20.4 MB
+32508.301 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+32508.306 (9) Cloud backup selection (1/1): onedrive with instance (1/1) (last)
+32508.308 (9) Beginning dispatch of backup to remote (onedrive) (instance identifier s-972eb7f7b05c95421a3964d6dafd2a4d)
+32508.309 (9) You do not have the UpdraftPlus onedrive add-on installed - get it from https://updraftplus.com/shop/
+32508.311 (9) An error condition has occurred for the first time during this job
+32508.316 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+32508.319 (9) Number of backup sets in history: 2; groups (db): 1
+32508.321 (9) Examining (for databases) backup set with group_id=0, nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+32508.324 (9) This backup set is the backup set just made, so will not be deleted.
+32508.324 (9) Examining (for databases) backup set with group_id=0, nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+32508.324 (9) This backup set remains non-empty (f=0/d=1); will retain in history
+32508.326 (9) Number of backup sets in history: 2; groups (files): 1
+32508.328 (9) Examining (for files) backup set with nonce=9a86057be92e, datestamp=1518259186 (Feb 10 2018 10:39:46)
+32508.328 (9) This backup set is the backup set just made, so will not be deleted.
+32508.331 (9) This backup set is the backup set just made, so will not be deleted.
+32508.332 (9) This backup set is the backup set just made, so will not be deleted.
+32508.332 (9) This backup set is the backup set just made, so will not be deleted.
+32508.333 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+32508.335 (9) Examining (for files) backup set with nonce=475246fc6ea8, datestamp=1518247081 (Feb 10 2018 07:18:01)
+32508.335 (9) This backup set remains non-empty (f=0/d=1); will retain in history
+32508.337 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+32508.344 (9) Resume backup (9a86057be92e, 9): finish run
+32508.346 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+32508.349 (9) No email will/can be sent - the user has not configured an email address.
+32508.351 (9) La tentative de sauvegarde est terminée, apparemment sans succès
